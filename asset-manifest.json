@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactDeployTest/static/js/main.9353e81a.js",
+    "index.html": "/reactDeployTest/index.html",
+    "main.9353e81a.js.map": "/reactDeployTest/static/js/main.9353e81a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9353e81a.js"
+  ]
+}
